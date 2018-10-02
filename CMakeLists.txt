@@ -3,12 +3,22 @@
 PROJECT(BigTalkDesignPatternCppTest)  
   
 #Add subdirectory
-ADD_SUBDIRECTORY(Chapter-1)  
-ADD_SUBDIRECTORY(Chapter-2)  
-ADD_SUBDIRECTORY(Chapter-6)  
-ADD_SUBDIRECTORY(Chapter-7)  
+ADD_SUBDIRECTORY(Chapter-1) 
+ADD_SUBDIRECTORY(Chapter-2) 
 
-ADD_SUBDIRECTORY(Chapter-17)  
+
+ 
+ADD_SUBDIRECTORY(Chapter-6) 
+ADD_SUBDIRECTORY(Chapter-7) 
+
+
+ADD_SUBDIRECTORY(Chapter-10) 
+
+ADD_SUBDIRECTORY(Chapter-12) 
+ADD_SUBDIRECTORY(Chapter-13) 
+ADD_SUBDIRECTORY(Chapter-14) 
+
+ADD_SUBDIRECTORY(Chapter-17) 
 
 
   
