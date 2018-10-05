@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3 FATAL_ERROR)
 
-project(Chapter-6-Decorator)
+project(Chapter-06-Decorator)
 
 include_directories(${PROJECT_SOURCE_DIR}/internal)
 

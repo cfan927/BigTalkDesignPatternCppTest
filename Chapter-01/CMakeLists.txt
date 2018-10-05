@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3 FATAL_ERROR)
 
-project(Chapter-1-SimpleFactory)
+project(Chapter-01-SimpleFactory)
 
 set(Srcs
 	main.cpp

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3 FATAL_ERROR)
 
-project(Chapter-2-Strategy)
+project(Chapter-02-Strategy)
 
 set(Srcs
 	main.cpp

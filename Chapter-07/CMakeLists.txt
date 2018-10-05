@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3 FATAL_ERROR)
 
-project(Chapter-7-Proxy)
+project(Chapter-07-Proxy)
 
 include_directories(${PROJECT_SOURCE_DIR}/internal)
 
